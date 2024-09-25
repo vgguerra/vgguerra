@@ -10,3 +10,7 @@ I have a brief knowledge of HTML, CSS and JavaScript.
 - 🎓 Telecommunications engineering at IFSC(Instituto Federal de Santa Catarina) - Campus São josé
 - 💡 Seeking knowledge
 
+
+
+## Tools that I dominte
+<img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/>
