@@ -13,4 +13,9 @@ I have a brief knowledge of HTML, CSS and JavaScript.
 
 
 ## Tools that I dominte
-<img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/>
+[![My Skills](https://skillicons.dev/icons?i=c,matlab,java,postman,mysql,spring,gradle,maven)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=linux,vscode,clion,git,cmake)](https://skillicons.dev)
+
+## My social media
+[![Social Media](https://skillicons.dev/icons?i=linkedin,instagram)]()
