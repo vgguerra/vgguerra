@@ -18,4 +18,5 @@ I have a brief knowledge of HTML, CSS and JavaScript.
 [![My Skills](https://skillicons.dev/icons?i=linux,vscode,clion,git,cmake)](https://skillicons.dev)
 
 ## My social media
-[![Social Media](https://skillicons.dev/icons?i=linkedin,instagram)]()
+<a href="https://instagram.com/vl.guerra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vl.guera" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/victor-guerra-9597101b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roberto da silva espindola" height="30" width="40" /></a>
