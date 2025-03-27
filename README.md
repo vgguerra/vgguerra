@@ -13,7 +13,7 @@ I have a brief knowledge of HTML, CSS and JavaScript.
 
 
 ## Tools that I dominte
-[![My Skills](https://skillicons.dev/icons?i=c,matlab,java,postman,mysql,spring,gradle,maven)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,matlab,java,postman,mysql,spring,gradle,maven,python)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=linux,vscode,clion,git,cmake)](https://skillicons.dev)
 
