@@ -15,7 +15,7 @@ I have a brief knowledge of HTML, CSS and JavaScript.
 ## Tools that I dominate
 [![My Skills](https://skillicons.dev/icons?i=c,csharp,matlab,java,postman,mysql,spring,gradle,maven,python)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=linux,vscode,clion,rider,intellij,git,cmake)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,vscode,clion,intellij,git,cmake)](https://skillicons.dev)
 
 ## My social media
 <a href="https://instagram.com/vl.guerra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vl.guera" height="30" width="40" /></a>
