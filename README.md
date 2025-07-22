@@ -6,7 +6,7 @@ My name is Victor Guerra, I'm 19 years old and in 2023 I had my first contact wi
 I have a brief knowledge of HTML, CSS and JavaScript.
 
 - 👩‍💻 Technical support analyst at Intelbras
-- 📘 English level: medium
+- 📘 English level: Advanced
 - 🎓 Telecommunications engineering at IFSC(Instituto Federal de Santa Catarina) - Campus São josé
 - 💡 Seeking knowledge
 
