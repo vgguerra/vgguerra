@@ -23,9 +23,9 @@ I am a lifelong learner, always open to collaborating on challenging projects an
 ## Tools that I dominate
 [![My Skills](https://skillicons.dev/icons?i=c,java,python,cs,spring,maven,gradle,mysql,matlab)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,scikitlearn)](https://skillicons.dev)
-
 [![My Skills](https://skillicons.dev/icons?i=linux,git,docker,postman,vscode,html,css,js)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=opencv,pytorch,tensorflow)](https://skillicons.dev)
 
 ## My social media
 <a href="https://instagram.com/vl.guerra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vl.guera" height="30" width="40" /></a>
