@@ -1,19 +1,22 @@
-# Hi There!👋  
+# Hi There!👋
 
 ## My name is Victor Guerra
 
-My journey into programming began in 2023 with the C language, and since then, I've been constantly expanding my skills and exploring new technologies. Currently, my main focus is on Web Application Development using Java with the Spring Framework.
+I embarked on my programming journey in 2023, starting with C and quickly discovering a passion for building solutions that matter. I am driven by the belief that technology is the cornerstone of the future, and I am dedicated to being an active builder in this new era.
 
-I have advanced knowledge in building RESTful APIs with Java Spring Boot, and have already developed backend systems such as a personal blog platform. I'm also gradually diving deeper into the front-end world, with a basic understanding of HTML, CSS, and JavaScript.
+My core expertise lies in backend development, with advanced skills in building robust RESTful APIs using **Java and Spring Boot**. However, my curiosity extends across the tech stack, and I'm continually growing my front-end knowledge with HTML, CSS, and JavaScript.
 
-More recently, I've been dedicating myself to the study of AI agents, exploring topics like Retrieval-Augmented Generation (RAG) and experimenting with tools and frameworks in Python to bring intelligent systems to life.
+A pivotal moment in my journey was an academic exchange at the **Polytechnic Institute of Beja (IPBeja) in Portugal**. There, I immersed myself in the world of AI by developing a computer vision project that leveraged **MediaPipe, OpenCV, and PyKinect**. The project's goal was to automate the Fullerton Battery, a functional fitness test designed to evaluate the physical aptitude of older adults. This experience ignited my passion for intelligent systems and set the course for my current focus.
 
-I'm highly motivated to keep learning and growing every day, and I'm always open to new challenges and opportunities to collaborate.
+Today, I am channeling that passion into the study of **Intelligent Agents** and **Foundation Models**. This dedication is demonstrated by my current research project, where I explore how **multi-agent systems and generative AI** can provide operational and commercial support for the **Brazilian electrical sector**. My goal is to design agents for diverse industrial applications, exploring concepts like Retrieval-Augmented Generation (RAG) and utilizing the Python ecosystem to bring these ideas to life.
 
-- 👩‍💻 Technical support analyst at Intelbras
-- 📘 English level: Advanced
-- 🎓 Telecommunications engineering at IFSC(Instituto Federal de Santa Catarina) - Campus São josé
-- 💡 Seeking knowledge
+I am a lifelong learner, always open to collaborating on challenging projects and embracing new opportunities for growth.
+
+- 🔬 AI Researcher focusing on **Multi-Agent Systems for the energy sector**
+- 🎓 Telecommunications Engineering at **IFSC (Instituto Federal de Santa Catarina)**
+- 🧠 Current Focus: **Intelligent Agents, Generative AI, and Backend Systems**
+- 🇵🇹 Computer Vision Researcher (Exchange Program) at **IPBeja, Portugal**
+- 📘 English Level: **Advanced**
 
 
 
