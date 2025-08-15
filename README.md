@@ -21,7 +21,7 @@ I am a lifelong learner, always open to collaborating on challenging projects an
 
 
 ## Tools that I dominate
-[![My Skills](https://skillicons.dev/icons?i=c,java,python,c#,spring,maven,gradle,mysql,matlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,python,cs,spring,maven,gradle,mysql,matlab)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,scikitlearn)](https://skillicons.dev)
 
