@@ -1,39 +1,33 @@
-# Victor Guerra
+# Hi There! 👋
 
-**AI Software Engineer Intern** · Building intelligent systems that solve real-world problems.
+## My name is Victor Guerra
 
-I started programming in 2023 with C and quickly found my path in backend development with **Java and Spring Boot**. A turning point came during an academic exchange at the **Polytechnic Institute of Beja (IPBeja), Portugal**, where I built a computer vision system to automate physical fitness assessments for older adults using **MediaPipe, OpenCV, and Kinect V2** — and discovered my passion for AI.
+I embarked on my programming journey in 2023, starting with C and quickly discovering a passion for building solutions that matter. I am driven by the belief that technology is the cornerstone of the future, and I am dedicated to being an active builder in this new era.
 
-Today, I work as an **AI Software Engineer Intern**, applying concepts like **Intelligent Agents**, **Retrieval-Augmented Generation (RAG)**, and **Foundation Models** to build production-grade AI solutions. I combine a solid backend foundation with a growing expertise in the Python AI ecosystem to design systems that are both intelligent and reliable.
+My core expertise lies in backend development, with advanced skills in building robust RESTful APIs using **Java and Spring Boot**. However, my curiosity extends across the tech stack, and I'm continually growing my front-end knowledge with HTML, CSS, and JavaScript.
 
----
+A pivotal moment in my journey was an academic exchange at the **Polytechnic Institute of Beja (IPBeja) in Portugal**. There, I immersed myself in the world of AI by developing a computer vision project that leveraged **MediaPipe, OpenCV, and PyKinect**. The project's goal was to automate the Fullerton Battery, a functional fitness test designed to evaluate the physical aptitude of older adults. This experience ignited my passion for intelligent systems and set the course for my current focus.
 
-### What I'm working with
+That passion for AI led me to my current role as an **AI Software Engineer Intern at [Alvarez & Marsal](https://www.alvarezandmarsal.com/)**, where I work on building intelligent solutions that combine software engineering with cutting-edge AI. Previously, I conducted research exploring how **multi-agent systems and generative AI** can provide operational and commercial support for the **Brazilian electrical sector**, working with concepts like Retrieval-Augmented Generation (RAG) and leveraging the Python ecosystem to bring these ideas to life.
 
-**AI & Machine Learning** — Intelligent Agents, RAG pipelines, Generative AI, Computer Vision
+I am a lifelong learner, always open to collaborating on challenging projects and embracing new opportunities for growth.
 
-**Backend** — Java, Spring Boot, RESTful APIs, Python
+- 💼 AI Software Engineer Intern at **[Alvarez & Marsal](https://www.alvarezandmarsal.com/)**
+- 🔬 Former AI Researcher focusing on **Multi-Agent Systems for the energy sector**
+- 🎓 Telecommunications Engineering at **IFSC (Instituto Federal de Santa Catarina)**
+- 🧠 Current Focus: **Intelligent Agents, Generative AI, and Backend Systems**
+- 🇵🇹 Former Computer Vision Researcher (Exchange Program) at **IPBeja, Portugal**
+- 📘 English Level: **Advanced**
 
-**Tools & Infrastructure** — Docker, Git, Linux, MySQL, Postman
+## Tools that I dominate
 
----
+[![My Skills](https://skillicons.dev/icons?i=c,java,python,cs,spring,maven,gradle,mysql,matlab)](https://skillicons.dev)
 
-### Featured Project
+[![My Skills](https://skillicons.dev/icons?i=linux,git,docker,postman,vscode,html,css,js)](https://skillicons.dev)
 
-**[Propicie](https://github.com/vgguerra/Propicie)** — Automated physical fitness evaluation using computer vision. Built with MediaPipe Holistic and Kinect V2 to measure flexibility in real time, achieving a mean absolute error of ~2.25 cm. Developed during a research collaboration between IPBeja (Portugal) and IFSC (Brazil).
+[![My Skills](https://skillicons.dev/icons?i=opencv,pytorch,tensorflow)](https://skillicons.dev)
 
----
+## My social media
 
-### About me
-
-- Currently working as an **AI Software Engineer Intern**
-- Telecommunications Engineering student at **IFSC**
-- Former Computer Vision Researcher at **IPBeja, Portugal**
-- Based in São José, Santa Catarina, Brazil
-
----
-
-### Let's connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-guerra-9597101b6/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vl.guerra)
+<a href="https://instagram.com/vl.guerra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vl.guera" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/victor-guerra-9597101b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victor guerra" height="30" width="40" /></a>
