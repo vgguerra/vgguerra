@@ -4,7 +4,7 @@
 
 I embarked on my programming journey in 2023, starting with C and quickly discovering a passion for building solutions that matter. I am driven by the belief that technology is the cornerstone of the future, and I am dedicated to being an active builder in this new era.
 
-My core expertise lies in backend development, with advanced skills in building robust RESTful APIs using **Java and Spring Boot**. However, my curiosity extends across the tech stack, and I'm continually growing my front-end knowledge with HTML, CSS, and JavaScript.
+My core expertise lies in architecting multi-agent AI systems using Python, LangGraph, and LangChain — designing agent graphs, orchestrating specialized LLMs, and integrating real-world APIs into intelligent pipelines. I also bring solid backend foundations with Java and Spring Boot, which gives me a strong understanding of scalable, production-ready system design. Beyond that, I'm continuously expanding my full-stack skills with Next.js and TypeScript.
 
 A pivotal moment in my journey was an academic exchange at the **Polytechnic Institute of Beja (IPBeja) in Portugal**. There, I immersed myself in the world of AI by developing a computer vision project that leveraged **MediaPipe, OpenCV, and PyKinect**. The project's goal was to automate the Fullerton Battery, a functional fitness test designed to evaluate the physical aptitude of older adults. This experience ignited my passion for intelligent systems and set the course for my current focus.
 
