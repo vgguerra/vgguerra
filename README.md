@@ -1,33 +1,39 @@
-# Hi There! 👋
+# Victor Guerra
 
-## My name is Victor Guerra
+AI Software Engineer Intern at [Alvarez & Marsal](https://www.alvarezandmarsal.com/). I build agentic AI systems in Python and hybrid retrieval pipelines over unstructured corpora. Background in Telecommunications Engineering at IFSC and computer vision research at IPBeja in Portugal.
 
-I embarked on my programming journey in 2023, starting with C and quickly discovering a passion for building solutions that matter. I am driven by the belief that technology is the cornerstone of the future, and I am dedicated to being an active builder in this new era.
+I prefer publishing the eval over publishing the demo.
 
-My core expertise lies in architecting multi-agent AI systems using Python, LangGraph, and LangChain — designing agent graphs, orchestrating specialized LLMs, and integrating real-world APIs into intelligent pipelines. I also bring solid backend foundations with Java and Spring Boot, which gives me a strong understanding of scalable, production-ready system design. Beyond that, I'm continuously expanding my full-stack skills with Next.js and TypeScript.
+## What I'm shipping
 
-A pivotal moment in my journey was an academic exchange at the **Polytechnic Institute of Beja (IPBeja) in Portugal**. There, I immersed myself in the world of AI by developing a computer vision project that leveraged **MediaPipe, OpenCV, and PyKinect**. The project's goal was to automate the Fullerton Battery, a functional fitness test designed to evaluate the physical aptitude of older adults. This experience ignited my passion for intelligent systems and set the course for my current focus.
+| Project | Stack | What it shows |
+|---|---|---|
+| **[OpenEnergyRag](https://github.com/vgguerra/OpenEnergyRag)** | FastAPI, Qdrant, e5-large + BM25, RRF, Groq | Citation-first RAG over Brazilian electricity-sector regulations (PRODIST/ANEEL, ONS). Published benchmark on a 25-question hand-curated eval set, `recall@10 = 1.000`. Free-tier deploy on Qdrant Cloud + Hugging Face Spaces + Vercel, CI/CD gated on release. |
+| **[Travel-Agent](https://github.com/vgguerra/Travel-Agent)** | Python, LangGraph, tool use, LLM provider abstraction | Multi-agent travel planner with planner, searcher and writer roles coordinating through a shared state graph. |
+| **[Barber](https://github.com/vgguerra/Barber)** | Java 21, Spring Boot 4, Next.js 16, Testcontainers, Flyway | Production-grade SaaS with JWT auth, RBAC (USER/ADMIN), opening-hours overlap validation, integration tests on a real Postgres via Testcontainers, GitHub Actions CI. |
+| **[ChunkerIA](https://github.com/vgguerra/ChunkerIA)** | Python | Comparator for chunking strategies in RAG pipelines, with focus on Portuguese regulatory text. |
 
-That passion for AI led me to my current role as an **AI Software Engineer Intern at [Alvarez & Marsal](https://www.alvarezandmarsal.com/)**, where I work on building intelligent solutions that combine software engineering with cutting-edge AI. Previously, I conducted research exploring how **multi-agent systems and generative AI** can provide operational and commercial support for the **Brazilian electrical sector**, working with concepts like Retrieval-Augmented Generation (RAG) and leveraging the Python ecosystem to bring these ideas to life.
+## How I work
 
-I am a lifelong learner, always open to collaborating on challenging projects and embracing new opportunities for growth.
+- Read papers and model cards before picking libraries. The e5 query/passage prefix story in OpenEnergyRag came from the model card, not the docs.
+- Publish the numbers. If I claim something is accurate or fast, the eval is in the repo and reproducible from a clean clone.
+- Prefer direct code over abstraction frameworks when the framework hides the data flow. RAG done right is around 800 lines of Python; LangChain often costs more than it saves.
 
-- 💼 AI Software Engineer Intern at **[Alvarez & Marsal](https://www.alvarezandmarsal.com/)**
-- 🔬 Former AI Researcher focusing on **Multi-Agent Systems for the energy sector**
-- 🎓 Telecommunications Engineering at **IFSC (Instituto Federal de Santa Catarina)**
-- 🧠 Current Focus: **Intelligent Agents, Generative AI, and Backend Systems**
-- 🇵🇹 Former Computer Vision Researcher (Exchange Program) at **IPBeja, Portugal**
-- 📘 English Level: **Advanced**
+## Background
 
-## Tools that I dominate
+- 🎓 **Telecommunications Engineering** at IFSC (Instituto Federal de Santa Catarina)
+- 🇵🇹 Exchange research at **IPBeja, Portugal**: computer vision automation of the Fullerton Battery, a functional fitness test for older adults, using MediaPipe, OpenCV and PyKinect
+- 🔬 Prior research on **multi-agent generative AI for the Brazilian electrical sector** (now materialized in [OpenEnergyRag](https://github.com/vgguerra/OpenEnergyRag))
+- 💼 Currently building intelligent solutions at Alvarez & Marsal
+- 📘 English: Advanced
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,python,cs,spring,maven,gradle,mysql,matlab)](https://skillicons.dev)
+## Stack I use day to day
 
-[![My Skills](https://skillicons.dev/icons?i=linux,git,docker,postman,vscode,html,css,js)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=python,java,spring,fastapi,nextjs,typescript,tailwind,postgres,docker,linux,git&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=opencv,pytorch,tensorflow)](https://skillicons.dev)
+Beyond what icons exist for: Qdrant for vector storage, fastembed for e5 + BM25, LangGraph for agent orchestration, uv for Python dependency management, Hugging Face Spaces and Vercel for free-tier production deploys.
 
-## My social media
+## Reach out
 
-<a href="https://instagram.com/vl.guerra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vl.guera" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/victor-guerra-9597101b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victor guerra" height="30" width="40" /></a>
+- [LinkedIn](https://www.linkedin.com/in/victor-guerra-9597101b6/)
+- [Instagram](https://instagram.com/vl.guerra)
